@@ -8,3 +8,6 @@
 
 <h3>Screenshots</h3>
 <img src="https://github.com/ccruz3355/Zombie-vs.-Crafter/blob/master/ZOMBIE%20VS%20CRAFTER%20RUN/images/background2.jpg" width= "200px" >
+
+<h3> Resources<h/3>
+<a href="https://www.python.org/downloads/"> python Download</a>
