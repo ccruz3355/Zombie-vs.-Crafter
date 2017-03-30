@@ -16,4 +16,5 @@
  width= "200px" >
 
 <h3> Resources<h/3>
-<a href="https://www.python.org/downloads/"> python Download</a>
+<a href="https://www.python.org/downloads/"> python Download</a> <br>
+<a href="http://www.lfd.uci.edu/~gohlke/pythonlibs/#pygame"> pyhton Download </a>
