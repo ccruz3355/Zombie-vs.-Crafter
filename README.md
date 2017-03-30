@@ -17,5 +17,5 @@
 
 <h3> Resources<h/3>
 <a href="https://www.python.org/downloads/"> python Download</a> <br>
-<a href="http://www.lfd.uci.edu/~gohlke/pythonlibs/#pygame"> pyhton Download </a>
-<a href="https://youtu.be/_GikMdhAhv0"> python Download</a> <br>
+<a href="http://www.lfd.uci.edu/~gohlke/pythonlibs/#pygame"> pyhton Download </a> <br>
+<a href="https://youtu.be/_GikMdhAhv0"> python Download</a> 
