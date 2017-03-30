@@ -227,7 +227,7 @@ while not game.over:
 
 #Game over SCREENS
 if zombie.health < 0:
-    game.drawText("Crafter won",game.width/4,game.height/4, Font(black,50,black,"ZEN.ttf"))
+    game.drawText("Crafter won",game.width/4,game.height/4, Font(black,100,black,"ZEN.ttf"))
     game.drawText("Press Space to Exit",game.width/5,game.height/6, Font(white,23,black,"ZEN.ttf"))
 
 if crafter.health < 0:
