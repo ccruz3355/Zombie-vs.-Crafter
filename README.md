@@ -15,7 +15,7 @@
 <img src="https://github.com/ccruz3355/Zombie-vs.-Crafter/blob/master/ZOMBIE%20VS%20CRAFTER%20RUN/ZOMBIE%20VS%20CRAFTER%20RUN%20START.png"
  width= "200px" >
 
-<h3> Resources<h/3>
+<h3> Resources</h3>
 <a href="https://www.python.org/downloads/"> python Download</a> <br>
-<a href="http://www.lfd.uci.edu/~gohlke/pythonlibs/#pygame"> pyhton Download </a> <br>
-<a href="https://youtu.be/_GikMdhAhv0"> python Download</a> 
+<a href="http://www.lfd.uci.edu/~gohlke/pythonlibs/#pygame"> PyGame Wheel File</a> <br>
+<a href="https://youtu.be/_GikMdhAhv0">Installing Python 3.6 and PyGame</a> 
